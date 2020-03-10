@@ -15,8 +15,8 @@
     <version.equalsverifier>1.7.8</version.equalsverifier>
     <version.bootstrap>3.3.7-1</version.bootstrap>
     <version.wildfly>11.0.0.Final</version.wildfly>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <version.arquillian>1.1.15.2</version.arquillian>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <version.arquillian.wildfly>2.0.2.Final</version.arquillian.wildfly>
     <maven.compiler.source>1.8</maven.compiler.source>
     <version.maven.war.plugin>3.1.0</version.maven.war.plugin>
@@ -27,12 +27,12 @@
     <version.fontawesome>4.7.0</version.fontawesome>
     <version.arquillian.rest>1.0.0.Alpha4</version.arquillian.rest>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <version.maven.dependency.plugin>2.10</version.maven.dependency.plugin>
-    <version.shrinkwrap>1.2.6</version.shrinkwrap>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <version.jquery>2.2.4</version.jquery>
-    <version.swagger>1.5.17</version.swagger>
+    <version.shrinkwrap>1.2.6</version.shrinkwrap>
     <version.javaee>7.0</version.javaee>
+    <version.swagger>1.5.17</version.swagger>
     <version.junit>4.12</version.junit>
     <version.primefaces-themes>1.0.10</version.primefaces-themes>
     <version.swagger.plugin>3.1.6</version.swagger.plugin>
